@@ -1,0 +1,1 @@
+console.log('Mr.Cutz site loaded');
